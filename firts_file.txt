@@ -1,1 +1,3 @@
 This is first file which was created in github in develop branch
+
+no to dodajemy zmiany lokalnie 
